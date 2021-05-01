@@ -1,2 +1,2 @@
 # clannad
-for school work
+log school work
